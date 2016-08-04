@@ -1,3 +1,7 @@
+## **As of August 2nd, 2016 -- daily and monthly uploads are temporarily suspended while I move to a new storage provider **
+
+
+
 # Protocol amplification attacks
 
 #### What is this repo?
